@@ -1,3 +1,3 @@
 # Bank-Application
 
-simple Bank Application for Saving & Checking Accounts
+Simple Bank Application for Saving & Checking Accounts
